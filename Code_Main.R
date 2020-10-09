@@ -115,4 +115,4 @@ resBoots_temp <-
     ifelse(getmatrix(x, "PDC") > 0, 1, 0))
 
 # how often (%) is edge included, over all bootstrap iterations
-apply(simplify2array(resBoots_temp), 1:2, mean) # how often (%) is edge included, over all bootstrap iterations
+apply(simplify2array(resBoots_temp), 1:2, mean) 
