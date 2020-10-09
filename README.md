@@ -4,6 +4,6 @@ R-code for analyses described in "General Psychopathology Links Burden of Recent
 
 Patient-data used in this project come from the ongoing Personalised Prognostic Tools for Early Psychosis Management (PRONIA) study (www.pronia.eu) and are currently not publicly available.
 
-Linda T. Betz & Nora Penzel are shared first authors. Code by L. Betz (linda.betz@uk-koeln.de) & N. Penzel (nora.penzel@uk-koeln.de)
+Linda T. Betz & Nora Penzel are shared first authors have conceptualized the code for the analyses.
 
-In case of questions, please do not hesitate to contact us.
+In case of questions, please do not hesitate to contact us (linda.betz@uk-koeln.de, nora.penzel@uk-koeln.de).
