@@ -8,6 +8,6 @@ Linda T. Betz & Nora Penzel are shared first authors and have conceptualized the
 
 In case of questions, please do not hesitate to contact us (linda.betz@uk-koeln.de, nora.penzel@uk-koeln.de).
 
-# References
-Epskamp, S., Waldorp, L. J., Mõttus, R., & Borsboom, D. (2018). The Gaussian graphical model in cross-sectional and time-series data. Multivariate Behavioral Research, 53(4), 453-480.
-Epskamp, S. (2020). Psychometric network models from time-series and panel data. Psychometrika, 1-26.
+# Relevant references
+- Epskamp, S., Waldorp, L. J., Mõttus, R., & Borsboom, D. (2018). The Gaussian graphical model in cross-sectional and time-series data. Multivariate Behavioral Research, 53(4), 453-480.
+- Epskamp, S. (2020). Psychometric network models from time-series and panel data. Psychometrika, 1-26.
