@@ -5,6 +5,7 @@ library(psychonetrics)
 library(bootnet)
 
 # data in "data_cole", "data_cole_covariates", and "data_cole_long"
+# "cole" stands for "Cologne Chart of Life Events"
 
 # ----------------- 1: estimate networks -----------------
 # estimate network (without CTQ domains as covariates)
